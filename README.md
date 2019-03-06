@@ -7,6 +7,8 @@ node app.js
 --------------------------------------------------
 - start mysql
 
+- to create db and table, run db.sql file
+
 mysql> source path_of_project_directory/db.sql
 
 -------------------------------------------
