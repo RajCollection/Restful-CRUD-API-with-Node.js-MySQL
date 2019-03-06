@@ -1,10 +1,12 @@
 # Restful-CRUD-API-with-Node.js-MySQL
 
 npm install
+
 node app.js
 
 --------------------------------------------------
-start mysql
+- start mysql
+
 mysql> source path_of_project_directory/db.sql
 
 -------------------------------------------
