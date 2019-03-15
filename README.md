@@ -15,7 +15,8 @@ mysql> source path_of_project_directory/db.sql
 
 APIs
 
- - Add user (POST): http://localhost:3002/users         
+ - Add user (POST): http://localhost:3002/users 
+ 
          {"name":"raj", "email":"abc@gmail.com"} 
 
  - Get All (GET): http://localhost:3002/users                                                  
@@ -23,6 +24,7 @@ APIs
  - Get one (GET): http://localhost:3002/users/1                                                  
          
  - Update user (PUT): http://localhost:3002/users/1 
+ 
          {"name":"rajpeer", "email":"abcd@gmail.com"} 
         
  - Delete user (DELETE): http://localhost:3002/users/1      
